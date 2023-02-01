@@ -4,9 +4,9 @@ function sleep(ms) {
 
 async function main() {
   while(true) {
-    console.log('Containers rule!');
+    console.log("Microservices rock!");
     await sleep(5000);
   }
 }
 
-main();
+main()
